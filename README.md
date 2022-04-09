@@ -4,7 +4,6 @@ Il file è un semplice PHP che permette di provare le chiamate SOAP e ti leggere
 
 L'obiettivo è che un developer possa crearsi un proprio script o integrare nel proprio gestionale l'invio automatico delle schedine ad Alloggiati Web.
 
--- 
 
 # Utenza
 
@@ -19,7 +18,9 @@ Dopo aver configurato le credenziali, aprire lo script da browser (dopo averlo m
 Lo script mostra come effettuare le singole chiamate e come ottenere le tabelle per i codici dei comuni, tipi di documento etc... (le tabelle si trovano 
 anche in csv a questo link: 
 
--- 
+
+Con lo script si arriva fino all'inserimento di due schedine (con dati finti) su uno specifico appartamento.
+
 
 Per costruire generare le schedine e tutto il resto seguire la documentazione ufficiale: 
 
